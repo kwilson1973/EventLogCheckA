@@ -1,0 +1,12 @@
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\bin\Debug\EventLogCheckA.exe.config
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\bin\Debug\EventLogCheckA.exe
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\bin\Debug\EventLogCheckA.pdb
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.csprojAssemblyReference.cache
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.debug.resources
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.EventLogCheck.resources
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.Properties.Resources.resources
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.setting.resources
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.csproj.GenerateResource.cache
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.csproj.CoreCompileInputs.cache
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.exe
+C:\Users\scada\Desktop\測試\EventLogCheckA\EventLogCheckA\obj\Debug\EventLogCheckA.pdb
